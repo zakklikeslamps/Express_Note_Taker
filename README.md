@@ -28,7 +28,7 @@ npm i, npm init, npm i express --save
 
 ## Usage
 
-Clone repo/ Navigate to locally cloned repo/ run "npm start" to initiate
+Clone repo/ Navigate to locally cloned repo/ run "npm start" to initiate. This app is open source for anyone to use freely. 
 
 ## License
 
