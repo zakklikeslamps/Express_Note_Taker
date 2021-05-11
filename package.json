@@ -1,14 +1,23 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Records user input via node & express.js",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "ZRH",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakklikeslamps/Express_Note_Taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zakklikeslamps/Express_Note_Taker/issues"
+  },
+  "homepage": "https://github.com/zakklikeslamps/Express_Note_Taker#readme"
 }
