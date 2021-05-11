@@ -1,41 +1,50 @@
 ## Project Title
-  #undefined
-  
-  ## Contents
-  
-  *[Project Name](#project)
-  *[Description](#description)
-  *[Github](#github)
-  *[Email](#email)
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[License](#license)
-  *[Questions](#questions)
 
-  ## Project Name
-  Express Note Taker
+#undefined
 
-  ##Description
-  Recores user input as a digital note, then saves it in local storage for future use. 
+## Contents
 
-  ## Installation 
-  Please install the necessary dependencies by running the following comand:
+_[Project Name](#project)
+_[Description](#description)
+_[Github](#github)
+_[Email](#email)
+_[Installation](#installation)
+_[Usage](#usage)
+_[License](#license)
+_[Questions](#questions)
 
-  npm i, npm init, npm i express --save
+## Project Name
 
-  ## Usage 
-  Clone repo/ Navigate to locally cloned repo/ run "npm start" to initiate
+Express Note Taker
 
-  ## License
-  ![badge](https://img.shields.io/badge/license-MIT-blueviolet)
-  This project utilizes the [MIT](https://spdx.org/licenses/MIT.html license.*
+##Description
+Records user input as a digital note, then saves it in local storage for future use.
 
+## Installation
 
-  ## Github Username
-  zakklikeslamps
+Please install the necessary dependencies by running the following commands:
 
-  ## Email 
-  zakklikeslamps@gmail.com
+npm i, npm init, npm i express --save
 
-  Please email or DM me on Github with any questions.
+## Usage
 
+Clone repo/ Navigate to locally cloned repo/ run "npm start" to initiate
+
+## License
+
+![badge](https://img.shields.io/badge/license-MIT-blueviolet)
+This project utilizes the [MIT](https://spdx.org/licenses/MIT.html license.\*
+
+## Deployment
+
+https://serene-savannah-72090.herokuapp.com/notes
+
+## Github Username
+
+zakklikeslamps
+
+## Email
+
+zakklikeslamps@gmail.com
+
+Please email or DM me on Github with any questions.
