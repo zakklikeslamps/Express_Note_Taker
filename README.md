@@ -1,6 +1,6 @@
 ## Project Title
 
-#undefined
+#Express Note Taker
 
 ## Contents
 
