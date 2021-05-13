@@ -1,6 +1,3 @@
-## Project Title
-
-#Express Note Taker
 
 ## Contents
 
