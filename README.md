@@ -14,7 +14,7 @@ _[Questions](#questions)
 
 Express Note Taker
 
-##Description
+## Description
 Records user input as a digital note, then saves it in local storage for future use.
 
 ## Installation
